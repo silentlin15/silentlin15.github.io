@@ -13,9 +13,8 @@
 
 - **Brief Introduction**: This paper contains the first acoustic models based on diffusion, including DiffSinger (SVS) and DiffSpeech (TTS). It realizes the high-quality speech/singing synthesis.
 - DiffSinger & DiffSpeech have recieved ![GitHub Stars](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social) & ![Github Stars](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social), and the downloads number of pre-trained model is ![downloads](https://img.shields.io/github/downloads/MoonInTheRiver/DiffSinger/total.svg).
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1uM411t7ZJ)](https://www.bilibili.com/video/BV1uM411t7ZJ/)!
-
+- Many [video demos](https://search.bilibili.com/video?keyword=diffsinger&order=click) created by the [DiffSinger community](https://github.com/openvpi) are released.
+- This work is included by many famous speech/music synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet), [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [muzic ![](https://img.shields.io/github/stars/microsoft/muzic?style=social)](https://github.com/microsoft/muzic).
 </div>
 </div>
 
