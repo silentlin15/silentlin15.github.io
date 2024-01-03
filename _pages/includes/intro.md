@@ -1,10 +1,3 @@
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 Now, I am a full-time AI researcher (Field of Large Speech Model) in ByteDance. I graduated from the Department of Computer Science, Zhejiang University (浙江大学计算机科学与技术学院), advised by [Zhao Zhou (赵洲)](https://person.zju.edu.cn/zhaozhou). Before that, I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University (浙江大学竺可桢学院). 
 
 My research interest includes speech & singing synthesis, avatar, and machine translation. I have published over 30 papers at the top international AI conferences such as NeurIPS, ICLR, ICML, AAAI, ACL, with total google scholar citations <a href='https://scholar.google.com/citations?user=Ri8x0jEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> .
