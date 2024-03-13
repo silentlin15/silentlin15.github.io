@@ -2,6 +2,20 @@
 # 📝 Publications
 ## Selected Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/megatts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MegaTTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\
+Ziyue Jiang, **Jinglin Liu**\*, Yi Ren, Jinzheng He, Zhenhui Ye, Shengpeng Ji, Qian Yang, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao; <img src='./images/bytedance_logo.svg' style="width: 4em;"> & ZJU
+
+[**Project**](https://boostprompt.github.io/boostprompt/) 
+
+- **Brief Introduction**: Large Text-to-Speech Model.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -13,7 +27,7 @@
 
 - **Brief Introduction**: This paper contains the first acoustic models based on diffusion, including DiffSinger (SVS) and DiffSpeech (TTS). It realizes the high-quality speech/singing synthesis.
 - DiffSinger & DiffSpeech have recieved ![GitHub Stars](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social) & ![Github Stars](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social), and the downloads number of pre-trained model is ![downloads](https://img.shields.io/github/downloads/MoonInTheRiver/DiffSinger/total.svg).
-- Many [video demos](https://search.bilibili.com/video?keyword=diffsinger&order=click) created by Bilibili creators are released.
+- Many [video demos](https://search.bilibili.com/video?keyword=diffsinger&order=click) created by Bilibili creators are released. And Diffsinger is introduced by [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1uM411t7ZJ)](https://www.bilibili.com/video/BV1uM411t7ZJ/)!
 - This work is included by many famous speech/music synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet), [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [muzic ![](https://img.shields.io/github/stars/microsoft/muzic?style=social)](https://github.com/microsoft/muzic).
 </div>
 </div>
@@ -44,7 +58,7 @@ Yi Ren\*, **Jinglin Liu**\*, Zhou Zhao
 </div>
 
 ## Recent Papers
-- Ziyue Jiang\*, **Jinglin Liu**\*, Yi Ren\*, Jinzheng He\*, Chen Zhang, Zhenhui Ye, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao, [Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts](https://arxiv.org/abs/2307.07218). (\* equal contributions)
+- Ziyue Jiang\*, **Jinglin Liu**\*, Yi Ren\*, Jinzheng He\*, Chen Zhang, Zhenhui Ye, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun Ma, Zhou Zhao, [Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD), **ICLR 2024** (\* equal contributions)
 - **Jinglin Liu**\*, Zhenhui Ye\*, Qian Chen, Siqi Zheng, Wen Wang, Qinglin Zhang, Zhou Zhao, [DopplerBAS: Binaural Audio Synthesis Addressing Doppler Effect](https://aclanthology.org/2023.findings-acl.753/), **ACL 2023**. (\* equal contributions)
 - Jinzheng He, **Jinglin Liu**, Zhenhui Ye, Rongjie Huang, Chenye Cui, Huadai Liu, Zhou Zhao, [RMSSinger: Realistic-Music-Score based Singing Voice Synthesis](https://arxiv.org/abs/2305.10686), **ACL 2023**
 - Rongjie Huang, Jiawei Huang, Dongchao Yang, Yi Ren, Luping Liu, Mingze Li, Zhenhui Ye, **Jinglin Liu**, Xiang Yin, Zhou Zhao, [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://arxiv.org/abs/2301.12661), **ICML 2023**
