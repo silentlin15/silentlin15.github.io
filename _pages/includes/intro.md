@@ -10,3 +10,5 @@ Previously, I worked as a research intern at Alibaba DAMO Academy <img src='./im
 My selected open-source projects: [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) ![GitHub Stars](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social) ; [NATSpeech](https://github.com/NATSpeech/NATSpeech) ![Github Stars](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social); Diffsinger has been introduced by [many popular videos](https://search.bilibili.com/all?keyword=DiffSinger&order=click) [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1uM411t7ZJ)](https://www.bilibili.com/video/BV1uM411t7ZJ/)!
 
 My selected project @ ByteDance: [MegaTTS 2](https://openreview.net/pdf?id=mvMI3N4AvD).
+
+You can contact me via WeChat: _silentlin
