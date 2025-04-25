@@ -11,4 +11,3 @@ My selected open-source projects: [DiffSinger](https://github.com/MoonInTheRiver
 
 My selected project @ ByteDance: [MegaTTS 2](https://openreview.net/pdf?id=mvMI3N4AvD).
 
-You can contact me via WeChat: _silentlin
